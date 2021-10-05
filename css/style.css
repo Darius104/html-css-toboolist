@@ -1,0 +1,42 @@
+/* reset */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial;
+    background-color: gray;
+}
+/* fine reset */
+
+/* Header */
+header{
+    background-color: white;
+}
+
+.logo{
+    display: inline-block;
+    height: 100px; 
+    width: 100px;
+    margin-left: 50px;
+    vertical-align: middle;
+    margin-bottom: 1%;
+    margin-top: 1%;
+}
+
+.titolo{
+    display: inline-block;
+    font-size: 80px;
+    vertical-align: middle;  
+}
+/* fine Header */
+
+/* Main */
+
+.container{
+    
+}
+
+/* fine Main */
